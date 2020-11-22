@@ -1,7 +1,7 @@
 # Dashboard Honor of Kings
 _by Pyoneer from MSc MAI, NUS_
 
-_Nov.2020_
+_Nov. 2020_
 
 ## Table of Contents
 ### **1. Introduction to the game**
