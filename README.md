@@ -1,13 +1,14 @@
-# Dashboard-Honor-of-Kings
+# Dashboard Honor of Kings
 _by Pyoneer from MSc MAI, NUS_
 
 _Nov.2020_
 
 ## Table of Contents
 ### **1. Introduction to the game**
+
 ### **2. Visulization of heroes attributes**
 #### **2.1 Bar charts**
-#### 2.2 Interactive radar charts**
+#### 2.2 Interactive radar charts
 
 ### **3. Heroes winning rate**
 
@@ -16,6 +17,7 @@ _Nov.2020_
 #### **3.2 Doube-hero winning rate**
   
 #### **3.3 5V5-position winning rate and rounds**
+
   
 ### **4. Predict win/lose from combinations of heroes**
 
