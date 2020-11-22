@@ -30,8 +30,10 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 
+import os
+your_path=os.path.abspath(os.getcwd())
 
-audio_file = open('welcome.ogg', 'rb')
+audio_file = open(your_path+'\\input\\'+'welcome.ogg', 'rb')
 audio_bytes = audio_file.read()
 
 st.markdown('# Dashboard for Honor of Kings')
@@ -61,17 +63,17 @@ if st.sidebar.checkbox('Introduction of Honor of Kings'):
 def return_data(csv_name):
     x=pd.read_csv(csv_name)
     return x
-hero = return_data('Hero Attributes.csv')
-radar = return_data('Radar.csv')
-combat=return_data('combat.csv')
+hero = return_data(your_path+'\\input\\'+'Hero Attributes.csv')
+radar = return_data(your_path+'\\input\\'+'Radar.csv')
+combat=return_data(your_path+'\\input\\'+'combat.csv')
 
 
 
 
     
 #Part 2 Visualization
-st.markdown('- **Part 2: Overview of attributes to Heros in Honor of Kings**')Q
-    st.sidebar.write('### Part 2: Overview of attributes to Heros in Honor of Kings')œq
+st.markdown('- **Part 2: Overview of attributes to Heros in Honor of Kings**')
+st.sidebar.write('### Part 2: Overview of attributes to Heros in Honor of Kings')
 
 #2.1
 topic_list=st.sidebar.multiselect('2.1 Choose to see Topics',['Hero Postion','Radar Chart by Hero Position','Radar Chart by Hero'])
@@ -418,7 +420,7 @@ for i in fig_list:
 st.sidebar.write('### Part 3: Analysis of single and double heros winning rates in King Pro League Fall 2020')        
 st.markdown('- **Part 3: Analysis of single and double heros winning rates in King Pro League Fall 2020**')
 
-df = return_data('combat.csv')
+df = return_data(your_path+'\\input\\'+'combat.csv')
 
 winning = st.sidebar.multiselect('Table of Contents: ',[
     "3.1 Single Hero's Winning Rate",'3.2 Ranking of Single Winning Rate',"3.3 Two Hero's Winning Rate",
@@ -431,7 +433,7 @@ def one_hero_win(name):
     win_rate = df_1.mean()['win'] #get win rate
     return win_rate
 #1.2
-a=return_data('hero_winning_rate.csv')
+a=return_data(your_path+'\\input\\'+'hero_winning_rate.csv')
 #2.1
 @st.cache(suppress_st_warning=True)
 def two_hero_win(name1,name2):
@@ -439,15 +441,15 @@ def two_hero_win(name1,name2):
     win_rate = df_2.mean()['win']
     return win_rate
 #2.2
-matrix=return_data('matrix.csv')
+matrix=return_data(your_path+'\\input\\'+'matrix.csv')
 def return_heatmap(color):
     cm = sns.light_palette(color, as_cmap=True)
     return cm
 #2.3
-b=return_data('winning_rate_list.csv')
+b=return_data(your_path+'\\input\\'+'winning_rate_list.csv')
 
 #3.1
-c=return_data('team_structure.csv')
+c=return_data(your_path+'\\input\\'+'team_structure.csv')
 
 for i in winning:
     if i=="3.1 Single Hero's Winning Rate":
@@ -493,7 +495,7 @@ step5 = st.sidebar.selectbox('Warrior',[0,1,2])
 step6 = st.sidebar.selectbox('Mage',[0,1,2])
 position_list = str([step1, step2, step3, step4, step5, step6])
 
-dft = pd.read_csv('train.csv')
+dft = pd.read_csv(your_path+'\\input\\'+'train.csv')
 
 if (position_list in list(dft['position_list'])):
 
@@ -622,5 +624,12 @@ if (position_list in list(dft['position_list'])):
     
 else:
     st.write('')
-    st.write('Error, please change another team structure.')
-    st.write('Posible reasons:     1. sum of each position != 5.     2.we do not have data under this structure')
+    st.write('_Error. Please change another team structure. Posible reasons for this problem are:_')
+    st.write('1. The sum of each position is not equal 5.')
+    st.write('2. No available data for this team structure.')
+    
+audio_file_2 = open(your_path+'\\input\\'+'Victory.ogg', 'rb')
+audio_bytes_2 = audio_file_2.read()
+
+with st.beta_expander("Ending Music"):
+    st.audio(audio_bytes_2, format='audio/ogg')
