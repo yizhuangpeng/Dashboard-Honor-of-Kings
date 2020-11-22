@@ -1,0 +1,104 @@
+﻿cname,ename,Position1,Position2,iMage,Health points,Physical attack,Spell Defense,Speed,Physical reduction rate,Power reduction rate,Critical strike effect,Area of effect,Health regeneration,Physical defense,Critical strike rate, Mana Regeneration,Maximum mana,Spell attack
+瑶,Yáo,Support,,https://img.18183.com/uploads/allimg/200309/266-2003091K307.jpg,3010,162,50,360,12.60%,7.60%,200,long-distance,43,87,0%,16,440,0
+成吉思汗,Genghis Khan,Archer,,https://img.18183.com/uploads/allimg/200311/266-2003111QG1.jpg,3027,184,50,370,13.50%,7.60%,200,long-distance,37,94,0%,15,440,0
+墨子,Mozi,Mage,Warrior,https://img.18183.com/uploads/allimg/190927/266-1Z92GQJ5.jpg,3083,181,50,380,14.50%,7.60%,200,short-distance,51,102,0%,15,420,0
+牛魔,Bull Demon,Support,Tank,https://img.18183.com/uploads/allimg/190929/266-1Z9291R551.jpg,3537,156,50,380,15.30%,7.60%,200,short-distance,58,109,0%,17,470,0
+嫦娥,Chang'e,Tank,Mage,https://img.18183.com/uploads/allimg/200305/266-2003051Q110.jpg,1600,152,50,395,12.60%,7.60%,0,long-distance,46,79,0%,15,440,0
+吕布,Lv Bu,Tank,Warrior,https://img.18183.com/uploads/allimg/190929/266-1Z9291K618.jpg,3564,170,50,370,14.10%,7.60%,200,short-distance,54,99,0%,0,0,0
+庄周,Zhuang Zhou,Support,Tank,https://img.18183.com/uploads/allimg/190927/266-1Z92GI110.jpg,3311,170,50,390,20%,7.60%,200,short-distance,55,150,0%,15,420,0
+张良,Zhang Liang,Mage,,https://img.18183.com/uploads/allimg/190929/266-1Z9291T013-50.jpg,3027,170,50,350,12.60%,7.60%,200,long-distance,43,87,0%,18,490,0
+司马懿,Sima Yi,Assassin,Mage,https://img.18183.com/uploads/allimg/200312/266-2003121I624.jpg,3166,165,50,360,13.10%,7.60%,200,long-distance,45,91,0%,18,490,0
+苏烈,Su Lie,Tank,,https://img.18183.com/uploads/allimg/200309/266-2003091P534.jpg,3369,171,50,380,13.40%,7.60%,200,short-distance,56,93,0%,0,0,0
+弈星,Yixing,Mage,,https://img.18183.com/uploads/allimg/200117/266-20011GSA5.jpg,2958,159,50,360,13.40%,7.60%,200,long-distance,42,93,0%,17,470,159
+猪八戒,Zhu Bajie,Tank,Warrior,https://img.18183.com/uploads/allimg/200312/266-2003121J110.jpg,3067,154,50,380,14.10%,7.60%,200,short-distance,76,99,0%,0,0,0
+裴擒虎,Pei Qinhu,Assassin,,https://img.18183.com/uploads/allimg/200309/266-2003091J153.jpg,3483,159,50,380,14.10%,7.60%,200,short-distance,53,99,0%,16,450,0
+太乙真人,Taiyi Zhenren,Support,Tank,https://img.18183.com/uploads/allimg/200311/266-2003111R437-50.jpg,3443,154,50,360,13.50%,0%,0,short-distance,49,94,0%,15,420,0
+孙膑,Sun Bin,Support,,https://img.18183.com/uploads/allimg/190926/266-1Z9261U419-50.jpg,3208,176,50,350,14.10%,7.60%,200,long-distance,45,98,0%,17,470,0
+蒙犽,Meng Ya,Archer,,https://img.18183.com/uploads/allimg/200109/266-20010Z95002.jpg,3235,160,50,360,13%,7.60%,200,long-distance,40,90,0%,0,0,0
+女娲,Nvwa,Mage,,https://img.18183.com/uploads/allimg/200309/266-2003091K949.jpg,2958,159,50,360,13.40%,7.60%,200,long-distance,42,93,0%,17,470,0
+小乔,Xiaoqiao,Mage,,https://img.18183.com/uploads/allimg/190924/266-1Z9241S153-50.jpg,3088,153,50,350,13.60%,7.60%,200,long-distance,44,95,0%,18,490,0
+白起,Bai Qi,Tank,,https://img.18183.com/uploads/allimg/190927/266-1Z92GT627.jpg,3510,158,50,390,16.60%,7.60%,200,short-distance,58,120,0%,14,420,0
+阿古朵,Agudo,Tank,,https://img.18183.com/uploads/allimg/200805/266-200P5115930-50.jpg,946,166,50,380,15.10%,7.60%,200,short-distance,50,107,0%,0,0,0
+虞姬,Yu Ji,Archer,,https://img.18183.com/uploads/allimg/200309/266-2003091F637.jpg,2977,165,50,350,12.20%,7.60%,200,long-distance,36,84,0%,16,440,0
+黄忠,Huang Zhong,Archer,,https://img.18183.com/uploads/allimg/200311/266-2003111S241.jpg,3173,172,50,350,13.10%,7.60%,200,long-distance,39,91,0%,16,440,0
+李元芳,Li Yuanfang,Archer,,https://img.18183.com/uploads/allimg/200122/266-200122155314.jpg,3007,161,50,350,12.60%,7.60%,200,long-distance,37,87,0%,15,440,0
+镜,Jing,Assassin,,https://img.18183.com/uploads/allimg/200331/266-2003311H000.jpg,3264,173,50,380,12.60%,7.60%,200,short-distance,52,87,0%,16,460,0
+程咬金,Cheng Yaojin,Tank,Warrior,https://img.18183.com/uploads/allimg/190926/266-1Z9261S623.jpg,3437,161,50,380,17.20%,7.60%,200,long-distance,57,125,0%,0,0,0
+张飞,Zhang Fei,Support,Tank,https://img.18183.com/uploads/allimg/200311/266-2003111J543.jpg,3450,153,50,380,17.20%,7.60%,200,short-distance,57,125,0%,5,100,0
+蔡文姬,Cai Wenji,Support,,https://img.18183.com/uploads/allimg/200117/266-20011GR424.jpg,3238,159,50,360,13.70%,7.60%,200,long-distance,38,96,0%,17,470,0
+马超,Ma Chao,Warrior,Assassin,https://img.18183.com/uploads/allimg/200116/266-2001161GS2.jpg,3307,168,50,370,13.70%,7.60%,200,short-distance,50,96,0%,0,0,0
+诸葛亮,Zhuge Liang,Mage,,https://img.18183.com/uploads/allimg/200311/266-2003111RU5.jpg,3135,156,50,350,12.60%,7.60%,0,long-distance,44,87,0%,18,490,0
+赵云,Zhao Yun,Warrior,Assassin,https://img.18183.com/uploads/allimg/190927/266-1Z92GP438-50.jpg,3267,173,50,380,12.20%,7.60%,200,short-distance,50,84,0%,15,430,0
+曹操,Cao Cao,Warrior,,https://img.18183.com/uploads/allimg/190929/266-1Z9291QQ0.jpg,3531,174,50,380,14.70%,7.60%,200,short-distance,54,104,0%,0,0,0
+百里守约,Baili Shouyue,Archer,Assassin,https://img.18183.com/uploads/allimg/200309/266-2003091Q324.jpg,3182,161,50,350,12.50%,7.60%,0,long-distance,41,86,200%,16,440,0
+扁鹊,Bian Que,Mage,,https://img.18183.com/uploads/allimg/190926/266-1Z9261PA8.jpg,3205,168,50,350,12.60%,7.60%,200,long-distance,45,87,0%,18,490,0
+王昭君,Wang Zhaojun,Mage,,https://img.18183.com/uploads/allimg/190927/266-1Z92GJ157.jpg,3083,165,50,350,13.10%,7.60%,200,long-distance,44,91,0%,17,490,0
+刘备,Liu Bei,Warrior,,https://img.18183.com/uploads/allimg/200122/266-2001221JZ3.jpg,3081,169,50,350,12.70%,7.60%,200,long-distance,38,88,0%,15,440,0
+大乔,Daqiao,Support,,https://img.18183.com/uploads/allimg/200309/266-2003091I335.jpg,2958,159,50,360,13.40%,7.60%,200,long-distance,42,93,0%,17,470,0
+西施,Xishi,Mage,,https://img.18183.com/uploads/allimg/190924/266-1Z924120G1.jpg,3041,164,50,360,13.10%,7.60%,200,long-distance,43,91,0%,17,490,0
+嬴政,Yingzheng,Mage,,https://img.18183.com/uploads/allimg/190927/266-1Z92GH115-50.jpg,3125,157,50,350,13.10%,7.60%,200,long-distance,44,91,0%,17,490,0
+上官婉儿,Shangguan Wan'er,Mage,Assassin,https://img.18183.com/uploads/allimg/200309/266-2003091A548.jpg,3215,152,50,396,12.60%,7.60%,0,long-distance,46,79,0%,15,440,0
+关羽,Guan Yu,Warrior,,https://img.18183.com/uploads/allimg/200311/266-2003111P527.jpg,3322,170,50,380,14.40%,7.60%,200,short-distance,51,101,0%,0,10,0
+典韦,Dian Wei,Warrior,,https://img.18183.com/uploads/allimg/190920/266-1Z9201Q412.jpg,3434,168,50,370,12.90%,7.60%,200,short-distance,52,89,0%,16,430,0
+花木兰,Hua Mulan,Warrior,Assassin,https://img.18183.com/uploads/allimg/191025/266-1910251S100.jpg,2886,170,50,380,12.50%,7.60%,200,short-distance,44,86,0%,0,0,0
+狂铁,Kuangtie,Warrior,,https://img.18183.com/uploads/allimg/200312/266-2003121I020.jpg,3263,166,50,380,13.60%,7.60%,200,short-distance,50,95,0%,0,90,0
+哪吒,Nezha,Warrior,,https://img.18183.com/uploads/allimg/200305/266-2003051PH0.jpg,3483,159,50,380,14.10%,7.60%,200,short-distance,53,99,0%,16,450,0
+艾琳,Irene,Archer,,http://img.18183.com/uploads/allimg/170307/36-1F30GT521.jpg,3182,161,50,350,12.50%,7.60%,200,long-distance,41,86,0%,16,440,0
+武则天,Wu Zetian,Mage,,https://img.18183.com/uploads/allimg/190927/266-1Z92GH635-50.jpg,2860,173,50,350,13.60%,7.60%,200,long-distance,40,95,0%,18,490,0
+刘邦,Liu Bang,Tank,Support,https://img.18183.com/uploads/allimg/200311/266-2003111KQ1.jpg,3369,158,50,380,17.20%,7.60%,200,short-distance,58,125,0%,17,470,0
+铠,Kai,Warrior,Tank,https://img.18183.com/uploads/allimg/200309/266-2003091QG1.jpg,3267,173,50,380,12.20%,7.60%,200,short-distance,50,84,0%,15,430,0
+夏洛特,Charlotte,Warrior,,https://img.18183.com/uploads/allimg/200924/266-2009241K411.jpg,3303,150,50,390,14.40%,7.60%,200,short-distance,50,101,0%,0,0,0
+蒙恬,Meng Tian,Warrior,,https://img.18183.com/uploads/allimg/200602/266-2006021QG7.jpg,3079,168,50,370,16%,7.60%,200,short-distance,76,115,0%,0,1000,0
+东皇太一,Toho Taiichi,Support,Tank,https://img.18183.com/uploads/allimg/200312/266-2003121G151.jpg,3201,163,50,350,14.10%,7.60%,200,long-distance,53,90,0%,17,470,0
+伽罗,Galo,Archer,,https://img.18183.com/uploads/allimg/200122/266-200122160318.jpg,3173,205,50,350,12.20%,7.60%,0,long-distance,39,84,0%,18,490,0
+刘禅,Liu Shan,Support,,https://img.18183.com/uploads/allimg/190924/266-1Z9241P514.jpg,3364,178,50,380,20%,7.60%,200,short-distance,56,139,0%,15,420,0
+项羽,Xiang Yu,Tank,,https://img.18183.com/uploads/allimg/190926/266-1Z9261T643.jpg,3535,200,50,370,17%,7.60%,200,short-distance,55,123,0%,20,420,0
+米莱狄,Miledy,Mage,,https://img.18183.com/uploads/allimg/200312/266-2003121I235.jpg,3166,165,50,360,13.10%,7.60%,200,long-distance,45,91,0%,18,490,0
+达摩,Da Mo,Warrior,,https://img.18183.com/uploads/allimg/190927/266-1Z92GIF3.jpg,3213,171,50,380,13.60%,7.60%,200,short-distance,51,95,0%,15,420,0
+芈月,Miyue,Tank,Mage,https://img.18183.com/uploads/allimg/190929/266-1Z9291S621.jpg,3105,152,50,370,12.70%,7.60%,200,long-distance,44,88,0%,0,100,0
+马可波罗,Marco Polo,Archer,,https://img.18183.com/uploads/allimg/200311/266-2003111Q300.jpg,3041,175,50,350,13.10%,7.60%,200,long-distance,46,91,0%,50,200,0
+盘古,Pangu,Warrior,,https://img.18183.com/uploads/allimg/200309/266-2003091P240.jpg,3067,154,50,380,14.10%,7.60%,200,short-distance,76,99,0%,0,0,0
+不知火舞,Mai Shiranui,Mage,Assassin,https://img.18183.com/uploads/allimg/200311/266-2003111P259.jpg,3235,170,50,390,12.90%,7.60%,200,short-distance,46,89,0%,50,200,0
+阿轲,Ake,Assassin,,https://img.18183.com/uploads/allimg/190927/266-1Z92GRA8-50.jpg,3269,177,50,380,12.90%,7.60%,200,short-distance,50,89,0%,0,0,0
+周瑜,Zhou Yu,Mage,,https://img.18183.com/uploads/allimg/191025/266-1910251P520.jpg,3093,160,50,350,12.60%,7.60%,200,long-distance,44,87,0%,17,490,0
+盾山,Dun Shan,Support,Tank,https://img.18183.com/uploads/allimg/200309/266-2003091H228.jpg,3041,171,50,530,11.60%,7.60%,200,short-distance,50,79,0%,25,125,0
+夏侯惇,Xiahou Dun,Tank,Warrior,https://img.18183.com/uploads/allimg/200116/266-2001161I141.jpg,3307,159,50,380,14.40%,7.60%,200,short-distance,51,101,0%,15,430,0
+雅典娜,Athena,Warrior,,https://img.18183.com/uploads/allimg/200311/266-2003111PZ1.jpg,2862,162,50,410,15%,7.60%,200,short-distance,44,106,0%,15,430,0
+梦奇,Mengqi,Tank,,https://img.18183.com/uploads/allimg/200312/266-2003121H229.jpg,3041,171,50,530,11.60%,7.60%,200,short-distance,50,79,0%,25,125,0
+宫本武藏,Miyamoto Musashi,Warrior,,https://img.18183.com/uploads/allimg/200122/266-2001221I505.jpg,2902,157,50,400,15%,7.60%,200,short-distance,47,106,0%,0,0,0
+曜,Yào,Warrior,Assassin,https://img.18183.com/uploads/allimg/191029/266-1910291PR4-50.jpg,3225,149,50,370,13.50%,7.60%,200,short-distance,49,94,0%,0,0,0
+李信,Li Xin,Warrior,,https://img.18183.com/uploads/allimg/200122/266-2001221F043.jpg,3418,176,50,370,15%,7.60%,200,short-distance,52,106,0%,0,0,0
+孙悟空,Monkey King,Assassin,Warrior,https://img.18183.com/uploads/allimg/190929/266-1Z9291P639.jpg,3305,167,50,380,14%,7.60%,200,short-distance,50,98,20%,15,430,0
+孙策,Sun Ce,Warrior,,https://img.18183.com/uploads/allimg/200309/266-2003091HH0-50.jpg,3237,151,50,380,13.90%,7.60%,200,short-distance,80,97,0%,15,420,0
+高渐离,Gao Jianli,Mage,,https://img.18183.com/uploads/allimg/190919/266-1Z9191T637.jpg,3122,163,50,370,14%,7.60%,200,long-distance,44,98,0%,17,490,0
+娜可露露,Naklulu,Assassin,,https://img.18183.com/uploads/allimg/191025/266-1910251QP8.jpg,3239,173,50,380,12.50%,7.60%,200,short-distance,47,86,0%,16,450,0
+露娜,Luna,Warrior,Mage,https://img.18183.com/uploads/allimg/200122/266-2001221J326.jpg,3021,163,50,380,14.50%,7.60%,200,short-distance,52,102,0%,16,450,0
+钟无艳,Zhong Wuyan,Warrior,Tank,https://img.18183.com/uploads/allimg/190927/266-1Z92GG452.jpg,3150,164,50,380,14.20%,7.60%,200,short-distance,48,100,0%,15,430,0
+李白,Li Bai,Assassin,,https://img.18183.com/uploads/allimg/191025/266-1910251Q147.jpg,2968,169,50,390,14%,7.60%,200,short-distance,49,98,0%,16,450,0
+杨戬,Yang Jian,Warrior,,https://img.18183.com/uploads/allimg/200311/266-2003111QZ7.jpg,3339,166,50,380,14%,7.60%,200,short-distance,51,98,0%,15,420,0
+貂蝉,Diao Chan,Mage,Assassin,https://img.18183.com/uploads/allimg/190929/266-1Z9291S133.jpg,3019,167,50,350,12.60%,7.60%,200,long-distance,43,87,0%,17,490,0
+钟馗,Zhong Kui,Support,Mage,https://img.18183.com/uploads/allimg/200309/266-2003091G440.jpg,3420,162,50,360,14.10%,7.60%,200,short-distance,57,99,0%,17,490,0
+云中君,Yunzhongjun,Warrior,Assassin,https://img.18183.com/uploads/allimg/200309/266-2003091JG4.jpg,3183,159,50,380,14.10%,7.60%,200,short-distance,76,99,0%,0,0,0
+兰陵王,Lanlingwang,Assassin,,https://img.18183.com/uploads/allimg/191025/266-1910251R116.jpg,3292,171,50,400,12.40%,7.60%,200,short-distance,52,85,0%,19,450,0
+干将莫邪,Ganjiang Moye,Mage,,https://img.18183.com/uploads/allimg/200309/266-2003091F018.jpg,3189,159,50,380,13.50%,7.60%,200,long-distance,45,92,0%,17,490,0
+狄仁杰,Di Renjie,Archer,,https://img.18183.com/uploads/allimg/190926/266-1Z9261QQ7-50.jpg,3242,169,50,360,13.60%,7.60%,200,long-distance,40,95,0%,15,440,0
+百里玄策,Baili Xuance,Assassin,,https://img.18183.com/uploads/allimg/200309/266-2003091P913.jpg,3359,178,50,380,12.70%,7.60%,200,short-distance,51,88,0%,16,450,0
+孙尚香,Sun Shangxiang,Archer,,https://img.18183.com/uploads/allimg/190927/266-1Z92GK151.jpg,3235,172,50,350,12.90%,7.60%,200,long-distance,40,89,0%,15,440,0
+后羿,Houyi,Archer,,https://img.18183.com/uploads/allimg/200305/266-2003051QF4.jpg,3182,161,50,360,12.50%,7.60%,200,long-distance,41,86,0%,16,440,0
+安琪拉,Angela,Mage,,https://img.18183.com/uploads/allimg/190924/266-1Z9241SZ6-50.jpg,3323,170,50,360,12.10%,7.60%,200,long-distance,47,83,0%,17,490,0
+妲己,Daji,Mage,,https://img.18183.com/uploads/allimg/190924/266-1Z9241R202.jpg,3229,170,50,350,12.50%,7.60%,200,long-distance,46,86,0%,18,490,0
+鲁班大师,Master Luban,Support,,https://img.18183.com/uploads/allimg/200102/266-2001021S457.jpg,3287,166,50,380,17.40%,7.60%,200,short-distance,83,127,0%,15,420,0
+鲁班七号,Luban 7,Archer,,https://img.18183.com/uploads/allimg/190920/266-1Z9201SJ8.jpg,3401,174,50,360,12.70%,7.60%,200,long-distance,42,88,0%,15,440,0
+姜子牙,Jiang Ziya,Support,Mage,https://img.18183.com/uploads/allimg/190920/266-1Z9201P105.jpg,2958,168,50,350,15%,7.60%,200,long-distance,42,106,0%,18,490,0
+鬼谷子,Guiguzi,Support,,https://img.18183.com/uploads/allimg/200312/266-2003121G547.jpg,3200,168,50,350,12.60%,7.60%,200,long-distance,45,87,0%,18,490,0
+元歌,Yuan Ge,Assassin,,https://img.18183.com/uploads/allimg/200312/266-2003121G941.jpg,3269,177,50,380,12.90%,7.60%,200,short-distance,50,89,0%,0,0,0
+韩信,Han Xin,Assassin,,https://img.18183.com/uploads/allimg/190926/266-1Z9261R921.jpg,2988,172,50,380,13.20%,7.60%,200,short-distance,45,92,0%,15,430,0
+公孙离,Gongsun Li,Archer,,https://img.18183.com/uploads/allimg/200116/266-2001161H353.jpg,3041,175,50,350,13.10%,7.60%,200,long-distance,46,91,0%,50,200,0
+杨玉环,Yang Yuhuan,Support,Mage,https://img.18183.com/uploads/allimg/200312/266-2003121H606.jpg,3238,159,50,360,13.70%,7.60%,0,long-distance,38,96,0%,17,470,0
+沈梦溪,Shen Mengxi,Mage,,https://img.18183.com/uploads/allimg/181023/237-1Q023113UBU.jpg,3238,171,50,396,12.60%,7.60%,0,long-distance,46,87,0%,15,440,0
+老夫子,Laofuzi,Warrior,,https://img.18183.com/uploads/allimg/190924/266-1Z9241Q544.jpg,3370,168,50,390,14.20%,7.60%,200,short-distance,51,100,0%,16,430,0
+橘右京,Tachibana Ukyo,Assassin,Warrior,https://img.18183.com/uploads/allimg/200311/266-2003111Q539.jpg,3150,165,50,390,13.70%,7.60%,200,short-distance,48,96,0%,0,0,0
+亚瑟,Arthur,Tank,Warrior,https://img.18183.com/uploads/allimg/190924/266-1Z9241Q224.jpg,3622,164,50,390,14.10%,7.60%,200,short-distance,55,98,0%,0,0,0
+明世隐,Ming Shiyin,Support,,https://img.18183.com/uploads/allimg/200309/266-2003091R145.jpg,3182,161,50,340,17.20%,7.60%,200,short-distance,41,86,0%,16,420,0
+甄姬,Zhen Ji,Mage,,https://img.18183.com/uploads/allimg/190920/266-1Z9201R324.jpg,3041,165,50,360,12.60%,7.60%,200,long-distance,43,87,0%,18,490,0
+廉颇,Lian Po,Tank,,https://img.18183.com/uploads/allimg/200507/266-20050GT225.jpg,3558,163,50,370,18%,7.60%,200,short-distance,59,132,0%,15,420,0
